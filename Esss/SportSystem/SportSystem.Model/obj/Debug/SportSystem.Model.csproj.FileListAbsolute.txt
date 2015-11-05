@@ -1,0 +1,14 @@
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\SportSystem.Model.dll.config
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\SportSystem.Model.dll
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\SportSystem.Model.pdb
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\EntityFramework.dll
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\EntityFramework.xml
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\obj\Debug\SportSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\obj\Debug\SportSystem.Model.dll
+C:\Users\Hristo\Desktop\Esss\SportSystem\SportSystem.Model\obj\Debug\SportSystem.Model.pdb
